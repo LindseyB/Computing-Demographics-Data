@@ -1,0 +1,8 @@
+= Computing Demographics Data
+----
+
+Contained in this repository is the results of an informal survey. You can view the survey at: https://www.surveymonkey.com/s/TFFKHRJ. The survey was distributed via twitter, IRC, email mailing lists, and web forums. There were a total of 825 responses and after cleaning out some responses I considered invalid there were 808. The cleaned folder contains an excel file, csv file, and sqlite database after this cleaning took place. If you want to look at the original data that is contained in the raw folder.
+
+Additionally, I removed all IPs from the results in order to perserve anonymity.
+
+The data is released under the CC0 license.
